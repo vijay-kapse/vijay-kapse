@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Suryakant Kapse</h1>
 <h3 align="center">Data Science graduate from IIT Madras. Open to full-time opportunities.</h3>
 <p align="center">
-🔭 I’m currently working on my research internship at IITM
+🔭 I’m currently researching in heatlhcare AI developing diagnostic solutions for hospitals using deep learning. 
 <p>
 
 <p align="center">
