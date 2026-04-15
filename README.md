@@ -1,49 +1,75 @@
-<h1 align="center">Hi 👋, I'm Vijay Suryakant Kapse</h1>
-<h3 align="center">MS in Data Analytics at Binghamton University | IIT Madras alumnus | Building AI, data, and decision-support systems</h3>
-
+<h1 align="center">Vijay Suryakant Kapse</h1>
 <p align="center">
-I work at the intersection of <b>machine learning, analytics, and product development</b>, with experience across <b>healthcare AI, decision-support systems, startup research, and full-stack data applications</b>.
+Data scientist and builder with experience across machine learning, healthcare AI, analytics, and product development.
 </p>
 
 <p align="center">
-🔭 Currently building and researching <b>AI-driven systems</b> for healthcare, enterprise decision-making, and real-world data products<br>
-🎯 Interested in <b>ML/AI Engineer, Data Scientist, and Applied AI</b> roles<br>
-⚡ Strong focus on turning ideas into <b>working products, dashboards, models, and decision tools</b>
+  <a href="https://www.linkedin.com/in/vijay-kapse/">LinkedIn</a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+---
+
+## About Me
+
+I am a Data Science graduate from IIT Madras and currently pursuing graduate studies in Data Analytics at Binghamton University.
+
+My work sits at the intersection of:
+- machine learning
+- applied AI
+- healthcare diagnostics
+- data systems
+- interactive decision-support tools
+
+I like building practical systems end-to-end — from models and data pipelines to usable interfaces and deployed applications.
+
+---
+
+## Selected Projects
+
+### 1. QOR
+A product-focused web application deployed on Vercel.
+
+- Repository: <a href="https://github.com/vijay-kapse/QOR">QOR</a>
+- Live Demo: <a href="https://qor-woad.vercel.app">qor-woad.vercel.app</a>
+
+### 2. Career Metro (NENY)
+A career mapping visualization for the battery industry with an interactive, design-forward interface.
+
+- Repository: <a href="https://github.com/vijay-kapse/NENY">NENY</a>
+- Live Demo: <a href="https://neny-kappa.vercel.app">neny-kappa.vercel.app</a>
+
+### 3. Battery Career RPG
+A gamified web app that turns battery-industry career progression into an RPG-style skill tree experience.
+
+- Repository: <a href="https://github.com/vijay-kapse/NENY_game">NENY_game</a>
+
+### 4. Medical Images AI Agent
+An AI-powered medical image analysis tool for structured diagnostic support and research-backed interpretation.
+
+- Repository: <a href="https://github.com/vijay-kapse/Medical_Images_AI_agent">Medical_Images_AI_agent</a>
+
+### 5. SaaS Accounting FAQ Bot
+A Streamlit-based FAQ assistant using Flan-T5 and TF-IDF retrieval for SaaS accounting workflows.
+
+- Repository: <a href="https://github.com/vijay-kapse/cpa_faq_bot">cpa_faq_bot</a>
+- Live Demo: <a href="https://cpabot.streamlit.app">cpabot.streamlit.app</a>
+
+---
+
+## Skills
+
+**Languages:** Python, SQL, C, JavaScript, TypeScript  
+**ML / Data:** pandas, scikit-learn, TensorFlow, data analysis, applied machine learning  
+**Web / Product:** React, Next.js, Tailwind CSS, Streamlit  
+**Other:** MySQL, SQLite, Redis
+
+---
+
+## Interests
+
+- Healthcare AI
+- Applied machine learning
+- Decision-support systems
+- Data visualization
+- Product development
+- Human-centered AI tools
