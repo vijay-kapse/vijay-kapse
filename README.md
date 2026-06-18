@@ -32,12 +32,12 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 | Project | What it does | Live Demo | Code |
 |---|---|---|---|
 | **RadAssist** — Medical Imaging AI | AI radiology assistant that analyzes medical images and generates structured reports (Next.js 16 + Vercel AI SDK + Gemini). | [Live ↗](https://medical-images-ai-agent.vercel.app) | [Repo](https://github.com/vijay-kapse/Medical_Images_AI_agent) |
+| **ClickCron** | Record a browser task once, replay it forever — turn any repetitive browser flow into a one-command automation. | [Live ↗](https://clickcron.vercel.app) | [Repo](https://github.com/vijay-kapse/ClickCron) |
 | **Cattle Retinal CVD Classifier** | Deep-learning pipeline classifying cardiovascular-disease markers from cattle retinal images. | [Live ↗](https://catal-ml.vercel.app) | [Repo](https://github.com/vijay-kapse/CVD-Classification-Of-Cattle-Retinal-Images) |
 | **QOR** | Interactive quality/ops review web app. | [Live ↗](https://qor-woad.vercel.app) | [Repo](https://github.com/vijay-kapse/QOR) |
 | **Battery Career Skill Tree** | Gamified, RPG-style skill map for careers in the battery industry. | [Live ↗](https://battery-career-skill-map.vercel.app) | [Repo](https://github.com/vijay-kapse/battery-career-skill-tree) |
 | **Career Metro (NENY)** | Metro-map style explorer for navigating career paths. | [Live ↗](https://neny-kappa.vercel.app) | [Repo](https://github.com/vijay-kapse/NENY) |
 | **Review Management System** | Full review-management dashboard (RMS). | [Live ↗](https://review-management-system-rms.vercel.app) | [Repo](https://github.com/vijay-kapse/Review-Management-System-RMS) |
-| **ClickCron** | Record a browser task once, replay it forever — turn any repetitive browser flow into a one-command automation. | — | [Repo](https://github.com/vijay-kapse/ClickCron) |
 | **CPA FAQ Bot** | RAG-based SaaS accounting assistant that answers CPA/finance FAQs. | — | [Repo](https://github.com/vijay-kapse/cpa_faq_bot) |
 
 > More experiments and ML notebooks on my [repositories page ↗](https://github.com/vijay-kapse?tab=repositories).
