@@ -66,7 +66,7 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-kapse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijay-kapse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kapse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
