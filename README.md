@@ -1,11 +1,11 @@
 <h1 align="center">Vijay Suryakant Kapse</h1>
 
 <p align="center">
-  <b>Data Scientist & Full-Stack AI Builder</b> · IIT Madras
+  <b>New York | Techie | IIT Madras</b>
 </p>
 
 <p align="center">
-  I turn ML research into shipped products — across healthcare, analytics, and AI agents.
+  I turn ML research into shipped products.
 </p>
 
 <p align="center">
