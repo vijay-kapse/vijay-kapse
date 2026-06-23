@@ -16,18 +16,18 @@
 
 ---
 
-## 👋 About
+## About
 
 Data scientist and builder who ships end-to-end — from model and data pipeline to a live web app users can click. I work across **machine learning, medical imaging, analytics, and AI agents**, and I like taking research-grade ideas all the way to deployed products on the web.
 
-- 🎓 Graduated from **IIT Madras**
-- 🧠 Focus: applied ML, LLM/AI agents, computer vision, and data products
-- 🚀 Most projects below are **live demos** — click and try them
-- 📫 Open to roles & collaborations: **vijayskofficial@gmail.com**
+- Graduated from **IIT Madras**
+- Focus: applied ML, LLM/AI agents, computer vision, and data products
+- Most projects below are **live demos** — click and try them
+- Open to roles & collaborations: **vijayskofficial@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Live Demo | Code |
 |---|---|---|---|
@@ -44,7 +44,7 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -63,7 +63,7 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijay-kapse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="165">
