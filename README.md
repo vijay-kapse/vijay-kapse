@@ -31,6 +31,7 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 
 | Project | What it does | Live Demo | Code |
 |---|---|---|---|
+| **EdgeLLM** — On-device LLM inference | Quantizes Qwen2.5-0.5B to INT8/INT4 (**4× smaller, 2× faster**, perplexity 19.0 → 20.1) and runs it from Python, a C++17 KV-cache harness, Android, and a Qualcomm Snapdragon NPU — every number measured on real hardware, never estimated. | [Live ↗](https://edgellm.vercel.app) | [Repo](https://github.com/vijay-kapse/EdgeLLM) |
 | **RadAssist** — Medical Imaging AI | AI radiology assistant that analyzes medical images and generates structured reports (Next.js 16 + Vercel AI SDK + Gemini). | [Live ↗](https://medical-images-ai-agent.vercel.app) | [Repo](https://github.com/vijay-kapse/Medical_Images_AI_agent) |
 | **ClickCron** | Record a browser task once, replay it forever — turn any repetitive browser flow into a one-command automation. | [Live ↗](https://clickcron.vercel.app) | [Repo](https://github.com/vijay-kapse/ClickCron) |
 | **Cattle Retinal CVD Classifier** | Deep-learning pipeline classifying cardiovascular-disease markers from cattle retinal images. | [Live ↗](https://catal-ml.vercel.app) | [Repo](https://github.com/vijay-kapse/CVD-Classification-Of-Cattle-Retinal-Images) |
@@ -52,14 +53,16 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Areas:** Machine Learning · Deep Learning / Computer Vision · LLM & AI Agents · Data Analytics · Full-Stack Web (Next.js)
+**Areas:** Machine Learning · Deep Learning / Computer Vision · LLM & AI Agents · Model Quantization & On-Device Inference · Data Analytics · Full-Stack Web (Next.js)
 
 ---
 
