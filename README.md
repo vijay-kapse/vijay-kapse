@@ -74,7 +74,7 @@ Data scientist and builder who ships end-to-end — from model and data pipeline
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-kapse&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=vijay-kapse&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
