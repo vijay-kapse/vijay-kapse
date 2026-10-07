@@ -37,11 +37,12 @@ fixed and verified against a negative control before submitting.
 | Project | Contribution | Status |
 |---|---|---|
 | **MLX** · Apple | [#4625](https://github.com/ml-explore/mlx/pull/4625) — `logcumsumexp` never promoted integer input, so on CPU it silently computed a *cumulative maximum* (integer `logaddexp` truncates to `max`, verified identical to `cummax` in 96/96 configurations) and on GPU no kernel existed to dispatch to. Made it promote like `logaddexp`. | **Merged** |
+| **MLX** · Apple | [#4637](https://github.com/ml-explore/mlx/pull/4637) — `vmap` of an inverse real FFT to an odd length silently returned the wrong shape. The requested length was unrecoverable from primitive state; showed one bit suffices, since the output is `2*(n_in-1) + odd`. A prior PR had documented this as a known limitation and left it. | **Merged** |
 | **ONNX Runtime** · Microsoft | [#33040](https://github.com/microsoft/onnxruntime/pull/33040) — Two fp16 bugs in the ARM64 **SVE** MLAS kernels: a Gelu overflow and Erf silently dropping NaNs, both lane-position dependent. Fixed, regenerated the frozen assembly, and added SVE test coverage validated at all 16 vector lengths under QEMU. `+361/−49` | **Merged** |
 | **ONNX Runtime** · Microsoft | [#33047](https://github.com/microsoft/onnxruntime/pull/33047) — The SVE assembly generator compiled its input translation units as C++17, breaking any use of `std::numbers`. | **Merged** |
 | **ONNX Runtime** · Microsoft | [#33052](https://github.com/microsoft/onnxruntime/issues/33052) — Found that `onnxruntime_mlas_test` was built in CI but never executed. **32,447 MLAS tests** went from never-run to gating every PR. Fixed by the maintainers in #33054. | **Resolved** |
 
-**Also open for review:** [MLX #4637](https://github.com/ml-explore/mlx/pull/4637) (`vmap` of an inverse real FFT to an odd length returns the wrong shape) · [ExecuTorch #23323](https://github.com/pytorch/executorch/pull/23323) (CoreML quantizer pattern-graph caching) · [torchao #4970](https://github.com/pytorch/ao/pull/4970) & [#4971](https://github.com/pytorch/ao/pull/4971) (pt2e observers silently dropping complex input; deprecated pytree registration) · [ONNX Runtime #33050](https://github.com/microsoft/onnxruntime/pull/33050) (fp16 exp non-finite coverage)
+**Also open for review:** [ExecuTorch #23323](https://github.com/pytorch/executorch/pull/23323) (CoreML quantizer pattern-graph caching) · [torchao #4970](https://github.com/pytorch/ao/pull/4970) & [#4971](https://github.com/pytorch/ao/pull/4971) (pt2e observers silently dropping complex input; deprecated pytree registration) · [ONNX Runtime #33050](https://github.com/microsoft/onnxruntime/pull/33050) (fp16 exp non-finite coverage)
 
 ---
 
