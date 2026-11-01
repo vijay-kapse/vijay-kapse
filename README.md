@@ -14,6 +14,9 @@ My fixes ship in Microsoft's **ONNX Runtime 1.31** and Apple's **MLX 0.32.4**.
 #### ExecuTorch · Meta
 **55x** faster CoreML quantizer. The Meta reviewer built on it to re-enable skipped int8 tests. [#23323](https://github.com/pytorch/executorch/pull/23323)
 
+#### Open
+**1.5–2x** faster int8 decode: ONNX Runtime re-dequantized tied lm_head weights on every token. Found with quantcost, fixed upstream, under review. [onnxruntime #33800](https://github.com/microsoft/onnxruntime/pull/33800)
+
 #### Tools
 [**forgot**](https://github.com/vijay-kapse/forgot) names a truly missing file in 70% of the commits it flags, vs 42% for a baseline. [![forgot downloads](https://img.shields.io/pepy/dt/forgot?style=flat-square&label=downloads)](https://pepy.tech/projects/forgot)<br>
 [**quantcost**](https://github.com/vijay-kapse/EdgeLLM) found int8 runs at 0.47x fp32 on Apple M4, and traced why. [![quantcost downloads](https://img.shields.io/pepy/dt/quantcost?style=flat-square&label=downloads)](https://pepy.tech/projects/quantcost)
