@@ -1,6 +1,12 @@
 ## Vijay Kapse
 ML engineer · IIT Madras · New York · vijayskofficial@gmail.com · [LinkedIn](https://www.linkedin.com/in/vijay-kapse/)
 
+At Manipal Hospitals I was the first hire on a $33 million government-funded project to detect coronary artery disease with AI. I built a team of 8 and took the project from proof of concept to production. The cardiovascular risk work was published in The Royal College of Radiologists Open, and I established the hospital's AI Center of Excellence. At Subex I then owned the data stack behind a production analytics product handling 180M+ records a day.
+
+I studied computer science and data science at IIT Madras, where my research on hospital pathogens became a publication, and earned my MS at Binghamton on a full-tuition merit scholarship. I also have a first-author paper accepted at HICSS 2027 and a provisional patent in AI for biotechnology.
+
+In open source, I have merged fixes in Microsoft's ONNX Runtime and Apple's MLX, including numeric bugs in ARM64 kernels, and I published quantcost, a tool that measures what quantization really costs on real hardware.
+
 My fixes ship in Microsoft's **ONNX Runtime 1.31** and Apple's **MLX 0.32.4**.
 
 #### ONNX Runtime · Microsoft
